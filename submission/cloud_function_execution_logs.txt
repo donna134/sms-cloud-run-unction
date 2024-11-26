@@ -1,0 +1,13 @@
+LEVEL  NAME        EXECUTION_ID  TIME_UTC                 LOG
+       sms-sender  2GZoYaToJz5h  2024-11-25 20:18:08.765  with body: Item added to Cloud Storage bucket 'sms-cloud'.
+                                                          Item added: test-finalize.txt'.
+                                                          Item event id: 12749754975064692Item event type: google.cloud.storage.object.v1.finalized
+       sms-sender  2GZoYaToJz5h  2024-11-25 20:18:08.765  Sending SMS to: ['+14127893188']
+I      sms-sender                2024-11-25 20:18:08.739
+       sms-sender  suamSxp3C6mh  2024-11-25 20:10:45.544  with body: Item added to Cloud Storage bucket 'sms-cloud'.
+                                                          Item added: test-finalize.txt'.
+                                                          Item event id: 13054044549694555Item event type: google.cloud.storage.object.v1.finalized
+       sms-sender  suamSxp3C6mh  2024-11-25 20:10:45.544  Sending SMS to: ['+14127893188']
+I      sms-sender                2024-11-25 20:10:45.514
+I      sms-sender                2024-11-25 20:07:01.819  Default STARTUP TCP probe succeeded after 1 attempt for container "worker" on port 8080.
+I      sms-sender                2024-11-25 19:26:43.930  Default STARTUP TCP probe succeeded after 1 attempt for container "worker" on port 8080.
